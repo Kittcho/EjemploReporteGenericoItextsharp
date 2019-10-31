@@ -16,7 +16,7 @@ Generá un reporte genérico con itextsharp y recibe parámetros por medio de un
 	   },
 	   \"orientacionHoja\":int,
 	   \"nom_archivo\":\"nombre de tu archivo.pdf\",
-	   \"rutaArchivo\":\"C:\\Users\\tupc\\OneDrive\\Documentos\\Archivos\",
+	   \"rutaArchivo\":\"C:\\Users\\tu_pc\\OneDrive\\Documentos\\Archivos\",
 	   \"tituloArchivo\":\"Tablas de Pg_tables\",
 	   \"consulta\":\"select * from pg_tables\"
 	}"
